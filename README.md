@@ -1,2 +1,2 @@
-# pet-sim-99-tinytask
-collection of tinytask recordings for pet sim 99
+# pet-sim-99
+macros for pet sim 99
